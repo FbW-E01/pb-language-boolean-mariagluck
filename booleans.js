@@ -45,4 +45,4 @@ let name = givenName || firstName || 'John';
 
 console.log(name);
 
-// ANSWER: it prints Stacey, because it prints the first value because the variable name is givenName with no value or firstName which is Stacey or John is a String.
+// ANSWER: it prints Stacey, because it prints the first value because the variable name is givenName with no value or firstName which is Stacey or John which comes after so JS doesn read further.

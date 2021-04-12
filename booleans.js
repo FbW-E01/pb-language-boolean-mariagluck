@@ -28,9 +28,9 @@ console.log(3 === "3");
 // * Store the value `true` to a variable. Using a ternary operator,print the `false` option by checking the value of the initial variable.
 
 let melon = 0;
-let  message =  (melon) ? "Congratulations you got melon today" : "Sorry, no melon today ";
-console.log(message);
-// ANSWER: it print Sorry, no melon today
+let  dessertMessage =  (melon) ? "Congratulations you got melon today" : "Sorry, no melon today ";
+console.log(dessertMessage);
+// ANSWER: it prints Sorry, no melon today
 
 
 
